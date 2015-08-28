@@ -7,10 +7,10 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Libreria Prueba</title>
+    <title>Libreria ISEI</title>
 
     <!-- Bootstrap Core CSS -->
-    <link href="/public/css/darkly.css" rel="stylesheet">
+    <link href="/public/css/simplex.css" rel="stylesheet">
 
     <!-- Custom CSS -->
     <link href="/public/css/shop-homepage.css" rel="stylesheet">
