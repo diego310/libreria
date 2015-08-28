@@ -10,7 +10,7 @@
     <title>Libreria Prueba</title>
 
     <!-- Bootstrap Core CSS -->
-    <link href="/public/css/.css" rel="stylesheet">
+    <link href="/public/css/darkly.css" rel="stylesheet">
 
     <!-- Custom CSS -->
     <link href="/public/css/shop-homepage.css" rel="stylesheet">
