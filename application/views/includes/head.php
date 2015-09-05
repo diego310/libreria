@@ -10,10 +10,10 @@
     <title>Libreria ISEI</title>
 
     <!-- Bootstrap Core CSS -->
-    <link href="/public/css/flatly.css" rel="stylesheet">
+    <link href="public/css/flatly.css" rel="stylesheet">
 
     <!-- Custom CSS -->
-    <link href="/public/css/shop-homepage.css" rel="stylesheet">
+    <link href="public/css/shop-homepage.css" rel="stylesheet">
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
